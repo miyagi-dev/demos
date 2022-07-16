@@ -1,0 +1,27 @@
+{
+  "label": "Regular button",
+  "$variants": [
+    {
+      "$name": "external link",
+      "label": "External link",
+      "url": "https://mgrossklaus.de",
+      "external": true
+    },
+    {
+      "$name": "secondary",
+      "label": "Secondary button",
+      "modifiers": ["secondary"]
+    },
+    {
+      "$name": "disabled",
+      "label": "Disabled button",
+      "disabled": true
+    },
+    {
+      "$name": "disabled/secondary",
+      "label": "Disabled secondary button",
+      "disabled": true,
+      "modifiers": ["secondary"]
+    }
+  ]
+}

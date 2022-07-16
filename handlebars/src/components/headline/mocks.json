@@ -1,0 +1,19 @@
+{
+  "$variants": [
+    {
+      "$name": "2",
+      "type": "2",
+      "copy": "Headline 2"
+    },
+    {
+      "$name": "3",
+      "type": "3",
+      "copy": "Headline 3"
+    },
+    {
+      "$name": "4",
+      "type": "4",
+      "copy": "Headline 4"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+.Footer {
+  border-top: 0.4rem solid var(--color-Secondary);
+  padding: var(--MiyagiDemo-spacing) 0 0;
+}
